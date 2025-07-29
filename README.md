@@ -4,3 +4,6 @@ These are my curated blocklists for phising, malware, trackers specific for Sing
 
 These blocklists can be used on [https://quietnet.app](https://quietnet.app)
 
+## Contributions
+
+Contributions are welcomed!
